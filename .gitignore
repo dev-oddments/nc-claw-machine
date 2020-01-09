@@ -13,7 +13,9 @@ dist/
 *.pyc
 
 .vscode
+.cache
 package.json.save
+.websocket_server.py.swp
 
 
 
