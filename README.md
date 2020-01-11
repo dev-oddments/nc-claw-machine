@@ -1,8 +1,13 @@
 # Claw Machine 
 
-> 🇺🇸Global Capstone Design at North Carolina A&T State University | 2020.01.06 ~ 09(UTC+0)
+> 🇺🇸Global Capstone Design at North Carolina A&T State University | 2020.01.06 ~ 09(UTC-5)
 
 ## Summary
+
+<p align="center">
+  <img src="assets/a&t.jpeg" width="768">
+</p>
+
 
 I participated in Chungnam National University's global capstone design program. It was a Jan. 2-12 schedule in North Carolina, the United States, and a time for Capstone, which runs from Jan. 6 to Jan. 9 at North Carolina A&T State University. 
 
